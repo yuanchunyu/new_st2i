@@ -9,5 +9,5 @@
 ### how to use: compile the test_tree.cpp, edit  file path (339 line)
 
 
-### speed figure
+### speed figure each time is average of three times 
 ![Alt text](/figure_st2i.JPG "speed figure")
