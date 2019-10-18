@@ -2,7 +2,7 @@
 
 ### it is memory test, no tree file created 
 
-### data use 5 millions taxi data:(https://cuny547-my.sharepoint.com/:x:/g/personal/cyuan1_gradcenter_cuny_edu/EV_6dWyhKsBOtdDSdlr5qQcBBEzZyFr2G2fBNUZ-hH0fEw?e=so5KcW)
+### data use 5 millions taxi data:
 
 ### query number of results: 138905 
 
